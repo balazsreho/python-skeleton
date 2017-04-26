@@ -55,7 +55,7 @@ After editing source codes and documentation, you may want to update Sphinx.
 Make new docs with:
 
 ```sh
-(virtualenv) ~/project_name sphinx-build ../docs/source ../docs/build
+(virtualenv) ~/project_name$ sphinx-build ../docs/source ../docs/build
 ```
 
 ## Adding new dependency
